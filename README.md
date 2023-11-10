@@ -10,3 +10,4 @@ This is a tutorial project made following the instructions on the official docum
 5. Blueprint Interface
 6. Event Dispatchers
 7. Getting Actors
+8. Basic Debugging with breakpoints, debug window, and debug shapes.
